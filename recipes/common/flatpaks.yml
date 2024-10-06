@@ -1,0 +1,12 @@
+type: default-flatpaks
+notify: true
+system:
+  repo-name: flathub-system
+  repo-title: "Flathub (System)"
+  install:
+    - org.gnome.Loupe
+  remove:
+    - org.gnome.eog
+user:
+  repo-name: flathub-user
+  repo-title: "Flathub (User)"

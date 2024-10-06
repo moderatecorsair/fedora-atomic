@@ -1,0 +1,22 @@
+type: fonts
+fonts:
+  nerd-fonts:
+    - Hack
+    - FiraCode
+    - SourceCodePro
+    - JetBrainsMono
+    - NerdFontsSymbolsOnly
+  google-fonts:
+    - Inter
+    - Roboto
+    - Open Sans
+    - Montserrat
+    - Libre Baskerville
+    - Noto Sans
+    - Noto Serif
+    - Noto Sans Korean
+    - Noto Serif Korean
+    - Noto Sans Japanese
+    - Noto Serif Japanese
+    - Noto Sans Simplified Chinese
+    - Noto Serif Simplified Chinese

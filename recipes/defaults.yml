@@ -1,0 +1,7 @@
+modules:
+  - type: brew
+  - type: signing
+  - from-file: common/rpms.yml
+  - from-file: common/files.yml
+  - from-file: common/fonts.yml
+  - from-file: common/flatpaks.yml

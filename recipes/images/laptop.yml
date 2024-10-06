@@ -1,0 +1,6 @@
+name: asus-laptop
+description: This is the OS image for my asus laptop.
+base-image: ghcr.io/ublue-os/silverblue-main
+image-version: 40
+modules:
+  - from-file: defaults.yml
