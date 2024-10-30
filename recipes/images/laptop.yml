@@ -4,3 +4,4 @@ base-image: ghcr.io/ublue-os/silverblue-main
 image-version: latest
 modules:
   - from-file: defaults.yml
+  - from-file: gnome/rpms.yml
