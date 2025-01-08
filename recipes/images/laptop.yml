@@ -1,7 +1,0 @@
-name: asus-laptop
-description: This is my laptop (Asus) OS image.
-base-image: ghcr.io/ublue-os/silverblue-main
-image-version: latest
-modules:
-  - from-file: defaults.yml
-  - from-file: gnome/rpms.yml

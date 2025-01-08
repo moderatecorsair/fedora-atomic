@@ -1,0 +1,7 @@
+name: lenovo-laptop
+description: This is my workstation image.
+base-image: ghcr.io/secureblue/silverblue-main-hardened	
+image-version: latest
+modules:
+  - from-file: defaults.yml
+  - from-file: gnome/rpms.yml
